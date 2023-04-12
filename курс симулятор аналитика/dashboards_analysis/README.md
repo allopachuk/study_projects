@@ -25,5 +25,7 @@
 
 ![image](https://user-images.githubusercontent.com/122831288/231572963-cf300713-6185-4871-9d43-0389c3add455.png)
 
+## Используемые инструменты
 
+*Superset*, *Redash*
 
